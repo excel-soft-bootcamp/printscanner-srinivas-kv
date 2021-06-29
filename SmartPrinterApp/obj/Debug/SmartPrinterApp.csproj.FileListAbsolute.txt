@@ -1,0 +1,6 @@
+c:\users\srinivas.kv\source\repos\SmartPrinterApp\SmartPrinterApp\bin\Debug\SmartPrinterApp.exe.config
+c:\users\srinivas.kv\source\repos\SmartPrinterApp\SmartPrinterApp\bin\Debug\SmartPrinterApp.exe
+c:\users\srinivas.kv\source\repos\SmartPrinterApp\SmartPrinterApp\bin\Debug\SmartPrinterApp.pdb
+c:\users\srinivas.kv\source\repos\SmartPrinterApp\SmartPrinterApp\obj\Debug\SmartPrinterApp.csproj.CoreCompileInputs.cache
+c:\users\srinivas.kv\source\repos\SmartPrinterApp\SmartPrinterApp\obj\Debug\SmartPrinterApp.exe
+c:\users\srinivas.kv\source\repos\SmartPrinterApp\SmartPrinterApp\obj\Debug\SmartPrinterApp.pdb
